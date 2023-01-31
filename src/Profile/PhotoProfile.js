@@ -6,7 +6,6 @@ export function ProfilePic({ src, alt}){
         width = {150}
         height = {150}
         />
-         
         </>
 
     )
